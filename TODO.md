@@ -1,0 +1,2 @@
+- Video about immediately-executed graph traversals.
+- Write about graph knowledge layered concept.
