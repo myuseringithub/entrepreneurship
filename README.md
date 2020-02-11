@@ -1,6 +1,7 @@
 # ريـادة الأعمـال
 - https://www.indiehackers.com/
 - https://www.aljazeera.net/program/business-pioneers
+- Startup interview shows.
 
 # نمـاذج لمشروعات ناجحة:
 - سوق.كوم
