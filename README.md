@@ -1,7 +1,8 @@
 # ريـادة الأعمـال
 - https://www.indiehackers.com/
 - https://www.aljazeera.net/program/business-pioneers
-- Startup interview shows.
+- https://www.producthunt.com/
+- Startup interview shows,etc.
 
 # نمـاذج لمشروعات ناجحة:
 - سوق.كوم
@@ -11,11 +12,20 @@
 - 
 
 # أفكار: 
-- نظام للبرمجة المرئية بإستخدام قاعدة بيانات مرسومة (مخطوط Graph).
+- نظام للبرمجة المرئية بإستخدام قاعدة بيانات مرسومة (مخطط Graph).
 - وسوم Wosoom: 
-  Innovative knowledge graph composed of units/nodes: 
+  Innovative knowledge graph مخطط معرفي composed of units/nodes: 
     - Entity كيان: person, organization, place, etc.
     - Concept مفهوم
+    - Things
+
+  Resouces: 
+    - https://www.youtube.com/watch?v=W9pRpSW_KqA
+    - linkeddata.org
+    - https://github.com/cayleygraph/cayley
+    - https://www.wikidata.org/wiki/Wikidata:Main_Page
+    - https://developers.google.com/knowledge-graph
+    - https://en.wikipedia.org/wiki/Knowledge_Graph 
   Features: 
   Graph databases do not support subgraphs or multilayers, which will require a programmatic abstraction to implement over the database.
     - multi-layer views (Subgraphs) of a target unit/node. 
