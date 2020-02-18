@@ -20,12 +20,15 @@
     - Things
 
   Resouces: 
+    - https://www.youtube.com/watch?v=Oips1aW738Q
     - https://www.youtube.com/watch?v=W9pRpSW_KqA
     - linkeddata.org
     - https://github.com/cayleygraph/cayley
     - https://www.wikidata.org/wiki/Wikidata:Main_Page
     - https://developers.google.com/knowledge-graph
     - https://en.wikipedia.org/wiki/Knowledge_Graph 
+    - https://www.youtube.com/watch?v=r3yMSl5NB_Q
+    - DataCommons.org
   Features: 
   Graph databases do not support subgraphs or multilayers, which will require a programmatic abstraction to implement over the database.
     - multi-layer views (Subgraphs) of a target unit/node. 
