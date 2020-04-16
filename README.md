@@ -1,4 +1,9 @@
 # ريـادة الأعمـال
+- Foundr.com courses: 
+  - https://foundr.com/60daystartup-closed
+  - https://foundr.com/dealflow
+  - https://foundr.com/start-and-scale
+  - https://foundr.com/ecommerce-masters-closed-vipwaitlist
 - https://www.indiehackers.com/
 - https://www.aljazeera.net/program/business-pioneers
 - https://www.producthunt.com/
